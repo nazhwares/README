@@ -1,8 +1,10 @@
 # README
-# Modul Praktikum: Web Service REST untuk Manajemen Buku
+# Web Service REST untuk Manajemen cakes
+## nazhwa resta pramesty
+## 2101550015
 
 ## Tujuan
-Membuat dan menguji web service REST untuk manajemen buku menggunakan PHP dan MySQL.
+Membuat dan menguji web service REST untuk manajemen cakes menggunakan PHP dan MySQL.
 
 ## Alat yang Dibutuhkan
 1. XAMPP (atau server web lain dengan PHP dan MySQL)
@@ -216,6 +218,7 @@ switch ($method) {
 
 ### Kesimpulan
 Dalam praktikum ini, Anda telah berhasil membuat web service REST untuk manajemen buku menggunakan PHP dan MySQL. Anda juga telah belajar cara menguji API menggunakan Postman. Praktik ini memberikan dasar yang kuat untuk pengembangan API RESTful lebih lanjut.
+
 ### HASIL
 <img width="919" alt="delete" src="https://github.com/user-attachments/assets/58a06601-b1cf-42fc-9ff3-ccc84ca441c2"> (delete)
 
