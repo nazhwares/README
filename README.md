@@ -40,8 +40,8 @@ INSERT INTO books (name,flavor,price,stock) VALUES
 
 ### 3. Membuat File PHP untuk Web Service
 1. Buka text editor Anda.
-2. Buat file baru dan simpan sebagai `book_api.php` di dalam folder `rest_buku`.
-3. Salin dan tempel kode berikut ke dalam `book_api.php`:
+2. Buat file baru dan simpan sebagai `cakes.php` di dalam folder `cakes`.
+3. Salin dan tempel kode berikut ke dalam `cakes.php`:
 
 ```php
 <?php
