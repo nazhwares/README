@@ -184,9 +184,9 @@ switch ($method) {
   - Masukkan:
     ```json
     {
-        "title": "The Hobbit",
-        "author": "J.R.R. Tolkien",
-        "year": 1937
+        "name": "cromboloni",
+        "flavor": "strawbery",
+        "price": 15.000
     }
     ```
 - Klik "Send"
@@ -202,9 +202,9 @@ switch ($method) {
   - Masukkan:
     ```json
     {
-        "title": "The Hobbit: An Unexpected Journey",
-        "author": "J.R.R. Tolkien",
-        "year": 1937
+        "nama": "donat",
+        "flavor": "coklat",
+        "price": 15.000
     }
     ```
 - Klik "Send"
