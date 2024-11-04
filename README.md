@@ -165,17 +165,17 @@ switch ($method) {
 1. Buka Postman
 2. Buat request baru untuk setiap operasi berikut:
 
-#### a. GET All Books
+#### a. GET All cakes
 - Method: GET
 - URL: `http://localhost/cakes/cakes.php`
 - Klik "Send"
 
-#### b. GET Specific Book
+#### b. GET Specific cakes
 - Method: GET
 - URL: `http://localhost/cakes/cakes.php/1` (untuk buku dengan ID 1)
 - Klik "Send"
 
-#### c. POST New Book
+#### c. POST New cakes
 - Method: POST
 - URL: `http://localhost/cakes/cakes.php`
 - Headers: 
@@ -193,7 +193,7 @@ switch ($method) {
     ```
 - Klik "Send"
 
-#### d. PUT (Update) Book
+#### d. PUT (Update) cakes
 - Method: PUT
 - URL: `http://localhost/cakes/cakes.php/6` (asumsikan ID buku baru adalah 6)
 - Headers: 
@@ -211,7 +211,7 @@ switch ($method) {
     ```
 - Klik "Send"
 
-#### e. DELETE Book
+#### e. DELETE cakes
 - Method: DELETE
 - URL: `http://localhost/cakes/cakes.php/6` (untuk menghapus buku dengan ID 6)
 - Klik "Send"
