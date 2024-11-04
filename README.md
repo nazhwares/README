@@ -217,7 +217,7 @@ switch ($method) {
 - Klik "Send"
 
 ### Kesimpulan
-Dalam praktikum ini, Anda telah berhasil membuat web service REST untuk manajemen buku menggunakan PHP dan MySQL. Anda juga telah belajar cara menguji API menggunakan Postman. Praktik ini memberikan dasar yang kuat untuk pengembangan API RESTful lebih lanjut.
+Dalam praktikum ini, Anda telah berhasil membuat web service REST untuk manajemen cakes menggunakan PHP dan MySQL. Anda juga telah belajar cara menguji API menggunakan Postman. Praktik ini memberikan dasar yang kuat untuk pengembangan API RESTful lebih lanjut.
 
 ### HASIL
 <img width="919" alt="delete" src="https://github.com/user-attachments/assets/58a06601-b1cf-42fc-9ff3-ccc84ca441c2"> (delete)
